@@ -1,0 +1,6 @@
+setup.py
+Fast_oligo_tools.egg-info/PKG-INFO
+Fast_oligo_tools.egg-info/SOURCES.txt
+Fast_oligo_tools.egg-info/dependency_links.txt
+Fast_oligo_tools.egg-info/top_level.txt
+U:/Lab/MERFISH_and_MERSCOPE/Human_Basal_ganglia_Gene_Probe_design/package_and_utils/LibraryDesign3/C_Tools/seqint.c
